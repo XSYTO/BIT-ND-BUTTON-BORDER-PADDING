@@ -1,0 +1,16 @@
+{
+  "name": "bit-nd-button-border-padding",
+  "version": "1.0.0",
+  "description": "BUTTON-BORDER-PADDING",
+  "main": "index.js",
+  "scripts": {
+    "dev": " dead-server --port=3535 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "XSYTO",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
